@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18a3e16a-1432-42cd-a5ad-979e8bfde5ee" name="Default Changelist" comment="" />
+    <list default="true" id="18a3e16a-1432-42cd-a5ad-979e8bfde5ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get the Machine Learning basics/Data Preprocessing Template/categorical_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Get the Machine Learning basics/Data Preprocessing Template/categorical_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get the Machine Learning basics/Data Preprocessing Template/data_preprocessing_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Get the Machine Learning basics/Data Preprocessing Template/data_preprocessing_template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get the Machine Learning basics/Data Preprocessing Template/missing_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Get the Machine Learning basics/Data Preprocessing Template/missing_data.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +20,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
